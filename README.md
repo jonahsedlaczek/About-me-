@@ -9,8 +9,4 @@ In my free time, I love working on side projects that let me explore new technol
 - Embedded systems
 - Python, C++, and more
 - Building tools and small apps
-- Collaborating on open source
 
-Feel free to check out my projects and connect!
-
-<!-- Optionally, you could add social media links, a portfolio, or GitHub stats below -->
